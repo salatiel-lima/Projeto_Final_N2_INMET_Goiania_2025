@@ -2,6 +2,12 @@
 
 ## Estimação da temperatura do ar em Goiânia utilizando Machine Learning
 
+## Integrantes do projeto
+
+- Patrícia Andrade
+- Pietro Borges
+- Salatiel Lima
+
 ### 1. Apresentação do projeto
 
 Este projeto foi desenvolvido para a disciplina de Big Data e Data Science, no curso de graduação em Inteligência Artificial da Faculdade FATESG.
